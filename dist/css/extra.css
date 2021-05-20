@@ -1,0 +1,22 @@
+
+body{
+	font-family: 'Montserrat';
+}
+
+
+.texto_planos {
+	font-family: 'Montserrat';
+}
+
+.textos_cursiva {
+	font-family: 'Dancing Script', cursive;
+}
+
+.naranja {
+    color: white;
+	background-color: #e7823f;
+}
+
+.fondoGris {
+	background-color:#E3DFDC;
+}
